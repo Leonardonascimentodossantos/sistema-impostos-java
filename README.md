@@ -55,5 +55,5 @@ Projeto desenvolvido para reforçar:
 ---
 
 ## 📎 Autor
-🧑‍💻 *Seu nome aqui*  
+🧑‍💻 *Leonardo Nascimento dos Santos*  
 💬 Feedbacks e sugestões são sempre bem-vindos! 🚀
